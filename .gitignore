@@ -1,0 +1,10 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Çıkış dosyaları
+tarama_sonucu.csv
+
+# Sistem dosyaları
+.DS_Store
+Thumbs.db

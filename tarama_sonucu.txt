@@ -1,0 +1,2 @@
+tahamis.netlify.app üzerinde 20-100 port tarama sonucu:
+80 → HTTP
